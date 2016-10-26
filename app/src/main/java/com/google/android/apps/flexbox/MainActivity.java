@@ -16,6 +16,8 @@
 
 package com.google.android.apps.flexbox;
 
+import com.google.android.flexbox.FlexContainer;
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
